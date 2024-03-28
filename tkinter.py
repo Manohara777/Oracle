@@ -1,0 +1,11 @@
+import tkinter as tk
+master = tk.Tk()
+master.title("Village List")
+master.geometry("700x250")
+e1 = tk.Entry(master)
+e2 = tk.Entry(master)
+e3 = tk.Entry(master)
+e4 = tk.Entry(master)
+e5 = tk.Entry(master)
+e6 = tk.Entry(master)
+e7 = tk.Entry(master)
